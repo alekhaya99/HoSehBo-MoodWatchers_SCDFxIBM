@@ -68,9 +68,9 @@ class _BPRateWidgetState extends State<BPRateWidget> {
                                   context,
                                   PageTransition(
                                     type: PageTransitionType.fade,
-                                    duration: Duration(milliseconds: 2000),
+                                    duration: Duration(milliseconds: 500),
                                     reverseDuration:
-                                        Duration(milliseconds: 2000),
+                                        Duration(milliseconds: 500),
                                     child: ChatWidget(),
                                   ),
                                 );

@@ -2,7 +2,7 @@
     package="com.flutterflow.moody">
    <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="moody"
+        android:label="MoodWatchers"
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true">
 

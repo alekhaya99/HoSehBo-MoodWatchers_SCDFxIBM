@@ -26,11 +26,11 @@ class _HomePageWidgetState extends State<HomePageWidget> {
         backgroundColor: Color(0xFFBBC7E7),
         automaticallyImplyLeading: false,
         title: Text(
-          'MOODY',
+          'MOODWATCHERS',
           style: FlutterFlowTheme.title1.override(
             fontFamily: 'Poppins',
             color: Color(0xFFF436E9),
-            fontSize: 30,
+            fontSize: 25,
             fontWeight: FontWeight.w800,
           ),
         ),

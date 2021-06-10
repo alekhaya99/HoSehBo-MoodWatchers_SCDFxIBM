@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'moody',
+      title: 'moodwatchers',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: LoginWidget()
     );

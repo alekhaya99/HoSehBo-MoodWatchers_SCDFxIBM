@@ -69,7 +69,7 @@ class _LoginWidgetState extends State<LoginWidget> {
                       style: FlutterFlowTheme.title1.override(
                         fontFamily: 'Poppins',
                         color: FlutterFlowTheme.primaryColor,
-                        fontSize: 45,
+                        fontSize: 35,
                       ),
                     ),
                     Text(
@@ -77,7 +77,7 @@ class _LoginWidgetState extends State<LoginWidget> {
                       style: FlutterFlowTheme.title1.override(
                         fontFamily: 'Poppins',
                         color: FlutterFlowTheme.tertiaryColor,
-                        fontSize: 45,
+                        fontSize: 35,
                       ),
                     ),
                     Text(
@@ -85,7 +85,7 @@ class _LoginWidgetState extends State<LoginWidget> {
                       style: FlutterFlowTheme.title1.override(
                         fontFamily: 'Poppins',
                         color: FlutterFlowTheme.tertiaryColor,
-                        fontSize: 45,
+                        fontSize: 35,
                       ),
                     ),
                     Text(
@@ -93,15 +93,16 @@ class _LoginWidgetState extends State<LoginWidget> {
                       style: FlutterFlowTheme.title1.override(
                         fontFamily: 'Poppins',
                         color: Color(0xFFFF0004),
-                        fontSize: 45,
+                        fontSize: 35,
                       ),
                     ),
                     Text(
-                      'Y',
+                      'WATCHERS',
                       style: FlutterFlowTheme.title1.override(
-                        fontFamily: 'Poppins',
+                        fontFamily: 'Charm',
                         color: Color(0xFFFFF700),
-                        fontSize: 45,
+                        fontSize: 35,
+                        fontStyle: FontStyle.italic,
                       ),
                     )
                   ],

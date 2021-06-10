@@ -67,8 +67,8 @@ class _HeartRateWidgetState extends State<HeartRateWidget> {
                                 context,
                                 PageTransition(
                                   type: PageTransitionType.fade,
-                                  duration: Duration(milliseconds: 2000),
-                                  reverseDuration: Duration(milliseconds: 2000),
+                                  duration: Duration(milliseconds: 500),
+                                  reverseDuration: Duration(milliseconds: 500),
                                   child: ChatWidget(),
                                 ),
                               );
