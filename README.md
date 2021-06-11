@@ -23,12 +23,12 @@ https://www.youtube.com/watch?v=mFOYFe1B1OA
 
 # Architecture of Proposed Solution
 MoodWatcher emcompasses an array of features and functionalities, which can be classified into the following three categories:
--  In the first step, the data is gathered with the help of theIoT Device.  (like Heart Rate, Image and Voice (Emotion and Mood)).The gathered data is sent to IBM Cloud Services and data is stored in IBM Mobile Database Service (https://www.ibm.com/cloud/mobile).
+-  In the first step, the data is gathered with the help of the IoT Device.  (like Heart Rate, Image and Voice (Emotion and Mood)).The gathered data is sent to IBM Cloud Services and data is stored in IBM Mobile Database Service (https://www.ibm.com/cloud/mobile).
 -  The image data is assessed using Watson Visual Recognition, Watson Tone Analyzer and an outcomes/ results are generated.
 -  Then after that, the result and the data is sent to the user device indicating if the user need any form of attention or not.
 
 ## Mood Detection
-Real-time emotional detection capabilities will be embedded in various forms of wearable technology as IoT-compatible modules like Smart Watch etc.  
+Real-time emotional detection capabilities will be embedded in various forms of wearable technology such as IoT-compatible modules like Smart Watch etc.  
 
 ## IBM Cloud
 With the power of IBM Cloud, we will be using IBM CLoud services like Watson Visual Recognition, Watson Tone Analyzer and many more to do various things like storing the data and do prediction analysis on the data using the Custom ML Model trained in IBM Cloud
