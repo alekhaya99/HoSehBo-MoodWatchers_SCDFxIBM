@@ -46,7 +46,7 @@ MoodWatchers is an Mobile Application using Flutter and Dart for the SCDF Innova
 In order to install Flutter and configure Flutter with an IDE, please follow the installation steps provided by the Flutter Team: https://flutter.dev/docs/get-started/install
 
 
-### IMPORTANT:
+- ### IMPORTANT:
 
 For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
 
@@ -57,7 +57,7 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 
 This command creates the generated files that parse each Record from Firestore into a schema object.
 
-### Getting started continued:
+- ### Getting started continued:
 
 This project is a starting point for a Flutter application.
 
